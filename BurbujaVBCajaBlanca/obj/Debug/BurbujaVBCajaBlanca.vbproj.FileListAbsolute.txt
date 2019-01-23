@@ -1,0 +1,11 @@
+C:\Users\mati\source\repos\BurbujaVBCajaBlanca\BurbujaVBCajaBlanca\bin\Debug\BurbujaVBCajaBlanca.exe.config
+C:\Users\mati\source\repos\BurbujaVBCajaBlanca\BurbujaVBCajaBlanca\bin\Debug\BurbujaVBCajaBlanca.exe
+C:\Users\mati\source\repos\BurbujaVBCajaBlanca\BurbujaVBCajaBlanca\bin\Debug\BurbujaVBCajaBlanca.pdb
+C:\Users\mati\source\repos\BurbujaVBCajaBlanca\BurbujaVBCajaBlanca\bin\Debug\BurbujaVBCajaBlanca.xml
+C:\Users\mati\source\repos\BurbujaVBCajaBlanca\BurbujaVBCajaBlanca\obj\Debug\BurbujaVBCajaBlanca.vbprojAssemblyReference.cache
+C:\Users\mati\source\repos\BurbujaVBCajaBlanca\BurbujaVBCajaBlanca\obj\Debug\BurbujaVBCajaBlanca.Resources.resources
+C:\Users\mati\source\repos\BurbujaVBCajaBlanca\BurbujaVBCajaBlanca\obj\Debug\BurbujaVBCajaBlanca.vbproj.GenerateResource.cache
+C:\Users\mati\source\repos\BurbujaVBCajaBlanca\BurbujaVBCajaBlanca\obj\Debug\BurbujaVBCajaBlanca.vbproj.CoreCompileInputs.cache
+C:\Users\mati\source\repos\BurbujaVBCajaBlanca\BurbujaVBCajaBlanca\obj\Debug\BurbujaVBCajaBlanca.exe
+C:\Users\mati\source\repos\BurbujaVBCajaBlanca\BurbujaVBCajaBlanca\obj\Debug\BurbujaVBCajaBlanca.xml
+C:\Users\mati\source\repos\BurbujaVBCajaBlanca\BurbujaVBCajaBlanca\obj\Debug\BurbujaVBCajaBlanca.pdb
